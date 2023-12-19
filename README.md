@@ -1,6 +1,5 @@
 <h1 align="center"> Exámen del tercer módulo de Adalab. Transformación de datos </h1>
 
-Examen módulo 3
 
 Realización de un EDA de dos conjuntos de datos de una aerolínea, seguido de una limpieza de los datos y varias visualizaciones que respondan a una serie de preguntas planteadas. Por último se realizará una prueba de A/B testing. A continuación incluyo el enunciado del ejercicio.
 ***
