@@ -1,4 +1,5 @@
-# promo-F-DA-modulo3-evaluacion-final-SilviaAlsina
+<h1 align="center"> Exámen del tercer módulo de Adalab. Transformación de datos </h1>
+
 Realización de un EDA de dos conjuntos de datos de una aerolínea, seguido de una limpieza de los datos y varias visualizaciones que respondan a una serie de preguntas planteadas. Por último se realizará una prueba de A/B testing. A continuación incluyo el enunciado del ejercicio.
 ***
 ## Fase 1: Exploración y Limpieza
@@ -27,4 +28,10 @@ Usando las herramientas de visualización que has aprendido durante este módulo
 3. Prueba Estadística:
   - Realiza una prueba de A/B testing para determinar si existe una diferencia significativa en el número de vuelos reservados entre los diferentes niveles educativos.
 ***
-#Lista de librerías
+# Lista de librerías
+- [Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+- [Numpy](https://numpy.org/doc/)
+- [Seaborn](https://seaborn.pydata.org)
+- [Matplotlib](https://matplotlib.org/stable/index.html)
+- [Scipy](https://docs.scipy.org/doc/)
+- [Scikitlearn](https://scikit-learn.org/stable/)
